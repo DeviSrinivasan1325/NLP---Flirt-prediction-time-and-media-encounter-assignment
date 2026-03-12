@@ -1,0 +1,213 @@
+Date,Time,Name,Text,scores,compound,Negative,Positive,Neutral,comp_score
+10-04-2023,9:26 AM,Priya,The canteen menu has changed today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-04-2023,9:27 AM,Priya,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-04-2023,9:32 AM,Priya,I love how you always make time for me,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6369}",0.6369,0.0,0.375,0.625,pos
+10-04-2023,10:13 AM,Arun,You are so cute when you smile,"{'neg': 0.0, 'neu': 0.44, 'pos': 0.56, 'compound': 0.7481}",0.7481,0.0,0.56,0.44,pos
+10-04-2023,10:31 AM,Priya,Missed video call,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.296}",-0.296,0.524,0.0,0.476,neg
+10-04-2023,11:08 AM,Arun,Did you fix the production issue,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-04-2023,12:48 PM,Priya,Did you push the code to git,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-04-2023,13:01 PM,Priya,Missed voice call,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.296}",-0.296,0.524,0.0,0.476,neg
+10-04-2023,14:07 PM,Arun,I love your charming and witty personality,"{'neg': 0.0, 'neu': 0.333, 'pos': 0.667, 'compound': 0.8402}",0.8402,0.0,0.667,0.333,pos
+10-04-2023,14:17 PM,Priya,You are so gorgeous it is unbelievable,"{'neg': 0.0, 'neu': 0.42, 'pos': 0.58, 'compound': 0.7855}",0.7855,0.0,0.58,0.42,pos
+10-04-2023,14:31 PM,Arun,You are the most captivating person I know,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-04-2023,14:44 PM,Priya,You are the most wonderful person in my life,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6115}",0.6115,0.0,0.333,0.667,pos
+10-04-2023,15:08 PM,Priya,Can you drop me at the station,"{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.2732}",-0.2732,0.259,0.0,0.741,neg
+10-04-2023,17:12 PM,Arun,I adore everything about you,"{'neg': 0.0, 'neu': 0.455, 'pos': 0.545, 'compound': 0.5574}",0.5574,0.0,0.545,0.455,pos
+10-04-2023,17:20 PM,Arun,I love how you always make me smile,"{'neg': 0.0, 'neu': 0.427, 'pos': 0.573, 'compound': 0.7717}",0.7717,0.0,0.573,0.427,pos
+10-04-2023,18:26 PM,Priya,The library books are due tomorrow,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-04-2023,18:47 PM,Priya,The server is down since morning,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-04-2023,19:20 PM,Arun,I love your warm and loving heart,"{'neg': 0.0, 'neu': 0.231, 'pos': 0.769, 'compound': 0.875}",0.875,0.0,0.769,0.231,pos
+10-04-2023,19:35 PM,Priya,You are so pretty it takes my breath away,"{'neg': 0.0, 'neu': 0.66, 'pos': 0.34, 'compound': 0.6269}",0.6269,0.0,0.34,0.66,pos
+10-04-2023,20:24 PM,Arun,The system is running very slowly,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-04-2023,22:42 PM,Arun,Can you send me the report by tomorrow,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,8:02 AM,Priya,I need to complete the tax filing,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,8:41 AM,Arun,You are so divinely beautiful,"{'neg': 0.0, 'neu': 0.247, 'pos': 0.753, 'compound': 0.8798}",0.8798,0.0,0.753,0.247,pos
+10-05-2023,8:42 AM,Priya,You are my sunshine on a cloudy day,"{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.4939}",0.4939,0.0,0.348,0.652,pos
+10-05-2023,9:04 AM,Arun,I have a headache since morning,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,9:15 AM,Arun,You make everything better just by being there,"{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}",0.4404,0.0,0.293,0.707,pos
+10-05-2023,11:51 AM,Arun,Did you check the flight timings,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,12:56 PM,Arun,You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,14:56 PM,Arun,Can you help me move this furniture,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}",0.4019,0.0,0.31,0.69,pos
+10-05-2023,15:28 PM,Arun,The printer is not working today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,16:31 PM,Arun,Did you finish the assignment,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,17:20 PM,Arun,Did you call the plumber,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,18:53 PM,Priya,Can you book the tickets for tomorrow,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,20:55 PM,Arun,I love how you always make me feel loved,"{'neg': 0.0, 'neu': 0.426, 'pos': 0.574, 'compound': 0.8442}",0.8442,0.0,0.574,0.426,pos
+10-05-2023,21:02 PM,Priya,Every time I see you I fall for you again,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-05-2023,21:29 PM,Arun,Did you complete the testing,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+11-05-2023,8:07 AM,Arun,I have a meeting with the client today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+11-05-2023,8:32 AM,Arun,I love how you always support me,"{'neg': 0.0, 'neu': 0.367, 'pos': 0.633, 'compound': 0.7845}",0.7845,0.0,0.633,0.367,pos
+11-05-2023,9:44 AM,Arun,I need to optimize this query,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",0.4939,0.0,0.444,0.556,pos
+11-05-2023,9:45 AM,Arun,I have to pay the school fees today,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.189,0.0,0.811,neg
+11-05-2023,10:16 AM,Arun,I think about you all the time,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+11-05-2023,10:23 AM,Arun,My heart beats faster when I see your name,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+11-05-2023,10:28 AM,Priya,You are so magnificently charming,"{'neg': 0.0, 'neu': 0.236, 'pos': 0.764, 'compound': 0.8932}",0.8932,0.0,0.764,0.236,pos
+11-05-2023,11:12 AM,Priya,You are so gracefully beautiful,"{'neg': 0.0, 'neu': 0.26, 'pos': 0.74, 'compound': 0.8606}",0.8606,0.0,0.74,0.26,pos
+11-05-2023,12:07 PM,Arun,The meeting is at 3pm today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+11-05-2023,12:24 PM,Arun,I have to attend the standup meeting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+11-05-2023,15:39 PM,Arun,You are so brilliantly beautiful,"{'neg': 0.0, 'neu': 0.244, 'pos': 0.756, 'compound': 0.8832}",0.8832,0.0,0.756,0.244,pos
+11-05-2023,16:45 PM,Arun,The food at the canteen was okay today,"{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.2263}",0.2263,0.0,0.213,0.787,pos
+11-05-2023,17:13 PM,Priya,I need to update the requirements file,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+11-05-2023,17:47 PM,Arun,I forgot to bring my lunch today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+11-05-2023,18:20 PM,Arun,You are so sweet and kind hearted,"{'neg': 0.0, 'neu': 0.399, 'pos': 0.601, 'compound': 0.8191}",0.8191,0.0,0.601,0.399,pos
+11-05-2023,18:56 PM,Priya,You are so special to me,"{'neg': 0.0, 'neu': 0.589, 'pos': 0.411, 'compound': 0.541}",0.541,0.0,0.411,0.589,pos
+11-05-2023,20:59 PM,Arun,I need to fix my laptop,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+11-05-2023,21:05 PM,Arun,I need to create a new branch,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.2732}",0.2732,0.0,0.344,0.656,pos
+11-05-2023,22:15 PM,Priya,I love how you always make me feel complete,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6369}",0.6369,0.0,0.375,0.625,pos
+12-05-2023,8:25 AM,Priya,You are the most enchanting person I know,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+12-05-2023,9:32 AM,Priya,I have to complete the feature by EOD,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+12-05-2023,10:59 AM,Arun,You are the most phenomenal person I know,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+12-05-2023,12:10 PM,Arun,The internet is very slow today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+12-05-2023,12:33 PM,Priya,You are so incredibly sweet,"{'neg': 0.0, 'neu': 0.528, 'pos': 0.472, 'compound': 0.5531}",0.5531,0.0,0.472,0.528,pos
+12-05-2023,12:52 PM,Arun,The weather is very hot today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+12-05-2023,13:01 PM,Arun,I love your beautiful heart,"{'neg': 0.0, 'neu': 0.198, 'pos': 0.802, 'compound': 0.8442}",0.8442,0.0,0.802,0.198,pos
+12-05-2023,13:27 PM,Priya,You are so beautifully unique,"{'neg': 0.0, 'neu': 0.458, 'pos': 0.542, 'compound': 0.6948}",0.6948,0.0,0.542,0.458,pos
+12-05-2023,16:12 PM,Priya,You have the most beautiful eyes I have ever seen,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.6361}",0.6361,0.0,0.344,0.656,pos
+12-05-2023,16:27 PM,Priya,Can you update the project documentation,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+12-05-2023,16:30 PM,Arun,Can you forward the email to me,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+12-05-2023,16:48 PM,Arun,You are so irresistibly attractive,"{'neg': 0.0, 'neu': 0.557, 'pos': 0.443, 'compound': 0.4902}",0.4902,0.0,0.443,0.557,pos
+12-05-2023,17:04 PM,Priya,I love your cute little laugh,"{'neg': 0.0, 'neu': 0.16, 'pos': 0.84, 'compound': 0.8887}",0.8887,0.0,0.84,0.16,pos
+12-05-2023,17:51 PM,Arun,I love your beautiful and radiant personality,"{'neg': 0.0, 'neu': 0.211, 'pos': 0.789, 'compound': 0.9042}",0.9042,0.0,0.789,0.211,pos
+12-05-2023,19:34 PM,Priya,The API is returning wrong response,"{'neg': 0.383, 'neu': 0.617, 'pos': 0.0, 'compound': -0.4767}",-0.4767,0.383,0.0,0.617,neg
+12-05-2023,19:37 PM,Priya,I love the way you look at me,"{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.6369}",0.6369,0.0,0.412,0.588,pos
+12-05-2023,19:57 PM,Priya,I need to prepare for the presentation,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+12-05-2023,20:02 PM,Priya,Your voice is so sweet and lovely,"{'neg': 0.0, 'neu': 0.387, 'pos': 0.613, 'compound': 0.8372}",0.8372,0.0,0.613,0.387,pos
+12-05-2023,21:29 PM,Arun,Can you check the error logs,"{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.4019}",-0.4019,0.351,0.0,0.649,neg
+12-05-2023,21:46 PM,Arun,I love your warm and gentle nature,"{'neg': 0.0, 'neu': 0.25, 'pos': 0.75, 'compound': 0.8402}",0.8402,0.0,0.75,0.25,pos
+12-05-2023,21:56 PM,Priya,Did you update the Excel sheet,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.4588}",0.4588,0.0,0.375,0.625,pos
+12-05-2023,21:58 PM,Priya,The class starts at 9am sharp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+12-05-2023,22:49 PM,Arun,The database connection is failing,"{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.5106}",-0.5106,0.452,0.0,0.548,neg
+12-05-2023,22:58 PM,Priya,You are my favorite person in the world,"{'neg': 0.0, 'neu': 0.7, 'pos': 0.3, 'compound': 0.4588}",0.4588,0.0,0.3,0.7,pos
+15-05-2023,8:46 AM,Priya,I get butterflies when I think of you,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+15-05-2023,12:02 PM,Priya,Can you share the document with me,"{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.296}",0.296,0.0,0.268,0.732,pos
+15-05-2023,12:04 PM,Priya,You have a beautiful soul,"{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.5994}",0.5994,0.0,0.565,0.435,pos
+15-05-2023,13:41 PM,Priya,The car needs to be serviced,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+15-05-2023,14:00 PM,Priya,You are so breathtakingly beautiful,"{'neg': 0.0, 'neu': 0.489, 'pos': 0.511, 'compound': 0.6344}",0.6344,0.0,0.511,0.489,pos
+15-05-2023,14:08 PM,Priya,Did you watch the news today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+15-05-2023,14:35 PM,Priya,Did you update the software,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+15-05-2023,15:00 PM,Priya,I need to fix this bug before release,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+15-05-2023,18:47 PM,Arun,Your smile makes my day so much better,"{'neg': 0.0, 'neu': 0.514, 'pos': 0.486, 'compound': 0.6887}",0.6887,0.0,0.486,0.514,pos
+15-05-2023,21:25 PM,Arun,I love how you always inspire me,"{'neg': 0.0, 'neu': 0.336, 'pos': 0.664, 'compound': 0.836}",0.836,0.0,0.664,0.336,pos
+15-05-2023,22:50 PM,Priya,I love your kind and generous spirit,"{'neg': 0.0, 'neu': 0.137, 'pos': 0.863, 'compound': 0.9118}",0.9118,0.0,0.863,0.137,pos
+20-05-2023,9:38 AM,Arun,You are so exquisitely beautiful,"{'neg': 0.0, 'neu': 0.489, 'pos': 0.511, 'compound': 0.6344}",0.6344,0.0,0.511,0.489,pos
+20-05-2023,9:48 AM,Arun,I feel so happy when I am with you,"{'neg': 0.0, 'neu': 0.6, 'pos': 0.4, 'compound': 0.6115}",0.6115,0.0,0.4,0.6,pos
+20-05-2023,9:59 AM,Priya,I would love to take you out sometime,"{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.6369}",0.6369,0.0,0.412,0.588,pos
+20-05-2023,10:29 AM,Priya,You are the most beautiful person inside and out,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.6361}",0.6361,0.0,0.344,0.656,pos
+20-05-2023,11:16 AM,Arun,I love your sweet and caring nature,"{'neg': 0.0, 'neu': 0.224, 'pos': 0.776, 'compound': 0.886}",0.886,0.0,0.776,0.224,pos
+20-05-2023,11:26 AM,Priya,I have to travel to Chennai next week,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-05-2023,11:28 AM,Priya,Every moment with you feels magical,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-05-2023,11:41 AM,Priya,I love your smile so much,"{'neg': 0.0, 'neu': 0.309, 'pos': 0.691, 'compound': 0.7717}",0.7717,0.0,0.691,0.309,pos
+20-05-2023,11:43 AM,Arun,The electricity bill is due this week,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-05-2023,12:13 PM,Priya,I need to renew my subscription,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-05-2023,13:54 PM,Arun,You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-05-2023,13:57 PM,Priya,I need to call the doctor tomorrow,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-05-2023,14:55 PM,Priya,Can you pick up the kids from school,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-05-2023,16:29 PM,Arun,Can you review my code please,"{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}",0.3182,0.0,0.315,0.685,pos
+20-05-2023,17:16 PM,Arun,The office will be closed on Monday,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-05-2023,17:29 PM,Priya,You are absolutely stunning,"{'neg': 0.0, 'neu': 0.509, 'pos': 0.491, 'compound': 0.4391}",0.4391,0.0,0.491,0.509,pos
+20-05-2023,18:31 PM,Arun,You are so delightfully charming,"{'neg': 0.0, 'neu': 0.254, 'pos': 0.746, 'compound': 0.8696}",0.8696,0.0,0.746,0.254,pos
+20-05-2023,21:22 PM,Priya,You are always in my thoughts,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,8:11 AM,Priya,Did you complete the homework,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,9:13 AM,Arun,I miss you so much when you are not around,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.1531}",-0.1531,0.167,0.0,0.833,neg
+25-05-2023,9:24 AM,Priya,I feel so lucky to know you,"{'neg': 0.0, 'neu': 0.618, 'pos': 0.382, 'compound': 0.4754}",0.4754,0.0,0.382,0.618,pos
+25-05-2023,10:23 AM,Arun,You are the most precious thing in my life,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.6115}",0.6115,0.0,0.333,0.667,pos
+25-05-2023,10:27 AM,Priya,I love your sweet and tender heart,"{'neg': 0.0, 'neu': 0.357, 'pos': 0.643, 'compound': 0.802}",0.802,0.0,0.643,0.357,pos
+25-05-2023,11:06 AM,Priya,I love how you always brighten my day,"{'neg': 0.0, 'neu': 0.413, 'pos': 0.587, 'compound': 0.7964}",0.7964,0.0,0.587,0.413,pos
+25-05-2023,11:11 AM,Priya,I need to buy a new charger,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,12:21 PM,Arun,The new policy starts from next month,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,12:27 PM,Priya,You brighten up my whole world,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,0.0,0.367,0.633,pos
+25-05-2023,13:14 PM,Priya,You are the reason I smile every day,"{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.3612}",0.3612,0.0,0.294,0.706,pos
+25-05-2023,13:17 PM,Priya,I need to submit the form by Friday,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,13:49 PM,Priya,Can you pass me the salt please,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}",0.3182,0.0,0.277,0.723,pos
+25-05-2023,14:15 PM,Arun,The hospital appointment is at 10am,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,15:01 PM,Priya,I have to prepare the monthly report,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,17:43 PM,Priya,The deployment failed due to an error,"{'neg': 0.545, 'neu': 0.455, 'pos': 0.0, 'compound': -0.7184}",-0.7184,0.545,0.0,0.455,neg
+25-05-2023,18:05 PM,Priya,I have to attend the parent teacher meeting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,18:07 PM,Priya,You look absolutely beautiful today,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.6361}",0.6361,0.0,0.512,0.488,pos
+25-05-2023,19:09 PM,Arun,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,19:18 PM,Arun,Can you remind me about the appointment,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,19:33 PM,Priya,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,19:59 PM,Priya,I love your cute sense of humor,"{'neg': 0.0, 'neu': 0.244, 'pos': 0.756, 'compound': 0.8519}",0.8519,0.0,0.756,0.244,pos
+25-05-2023,20:23 PM,Arun,The code review is scheduled for tomorrow,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,20:49 PM,Priya,The road is under construction near here,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-05-2023,22:48 PM,Priya,Did you charge your phone,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+01-06-2023,8:33 AM,Arun,I have to attend a seminar today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+01-06-2023,8:35 AM,Arun,The supermarket is closed today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+01-06-2023,8:37 AM,Arun,You are so magnificently beautiful,"{'neg': 0.0, 'neu': 0.234, 'pos': 0.766, 'compound': 0.8955}",0.8955,0.0,0.766,0.234,pos
+01-06-2023,8:42 AM,Priya,Did you pay the rent this month,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.1027}",-0.1027,0.189,0.0,0.811,neg
+01-06-2023,9:34 AM,Priya,I love your tender and loving heart,"{'neg': 0.0, 'neu': 0.331, 'pos': 0.669, 'compound': 0.8442}",0.8442,0.0,0.669,0.331,pos
+01-06-2023,9:40 AM,Priya,The project deadline is next week,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+01-06-2023,9:52 AM,Priya,The ATM is out of cash nearby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+01-06-2023,11:03 AM,Arun,You are my dream come true,"{'neg': 0.0, 'neu': 0.455, 'pos': 0.545, 'compound': 0.5859}",0.5859,0.0,0.545,0.455,pos
+01-06-2023,17:27 PM,Arun,You are the most amazing person I have ever met,"{'neg': 0.0, 'neu': 0.662, 'pos': 0.338, 'compound': 0.624}",0.624,0.0,0.338,0.662,pos
+01-06-2023,18:15 PM,Priya,Can you check the schedule for tomorrow,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+01-06-2023,19:19 PM,Priya,You are the one I have been waiting for,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+01-06-2023,20:41 PM,Arun,I love how caring and sweet you are,"{'neg': 0.0, 'neu': 0.278, 'pos': 0.722, 'compound': 0.886}",0.886,0.0,0.722,0.278,pos
+01-06-2023,21:40 PM,Arun,I love talking to you for hours,"{'neg': 0.0, 'neu': 0.543, 'pos': 0.457, 'compound': 0.6369}",0.6369,0.0,0.457,0.543,pos
+01-06-2023,22:10 PM,Priya,Did you get the job offer letter,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+01-06-2023,22:25 PM,Arun,I need to deploy the application today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+01-06-2023,22:40 PM,Arun,I wish I could be with you right now,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}",0.4019,0.0,0.31,0.69,pos
+10-06-2023,9:37 AM,Priya,I have to attend the technical interview,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,9:54 AM,Arun,I get nervous every time I see you,"{'neg': 0.296, 'neu': 0.704, 'pos': 0.0, 'compound': -0.2732}",-0.2732,0.296,0.0,0.704,neg
+10-06-2023,9:57 AM,Priya,You are the most lovable person I know,"{'neg': 0.0, 'neu': 0.583, 'pos': 0.417, 'compound': 0.6478}",0.6478,0.0,0.417,0.583,pos
+10-06-2023,10:09 AM,Priya,Did you backup your data,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,10:12 AM,Arun,I love how you always make me laugh,"{'neg': 0.0, 'neu': 0.391, 'pos': 0.609, 'compound': 0.8316}",0.8316,0.0,0.609,0.391,pos
+10-06-2023,10:40 AM,Priya,You are so lovely and wonderful,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.8699}",0.8699,0.0,0.688,0.312,pos
+10-06-2023,11:41 AM,Arun,Can you write the test cases,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,14:57 PM,Arun,The project is almost complete,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,15:20 PM,Priya,The build is failing since last night,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.5106}",-0.5106,0.355,0.0,0.645,neg
+10-06-2023,15:27 PM,Priya,You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,16:02 PM,Arun,The bus was late again today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,16:07 PM,Arun,I love spending time with you,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.6369}",0.6369,0.0,0.512,0.488,pos
+10-06-2023,17:30 PM,Arun,You are the most incredible person I know,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,18:41 PM,Priya,You are the most extraordinary person I know,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,19:09 PM,Arun,I need to install the new software,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,19:27 PM,Priya,I love the way you laugh,"{'neg': 0.0, 'neu': 0.278, 'pos': 0.722, 'compound': 0.8316}",0.8316,0.0,0.722,0.278,pos
+10-06-2023,20:34 PM,Arun,You have the most charming personality,"{'neg': 0.0, 'neu': 0.55, 'pos': 0.45, 'compound': 0.624}",0.624,0.0,0.45,0.55,pos
+10-06-2023,20:36 PM,Priya,The release is scheduled for next week,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,20:52 PM,Priya,Can you merge the pull request,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,20:55 PM,Arun,You make my heart skip a beat,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+10-06-2023,20:55 PM,Arun,I love how you always know what to say,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6369}",0.6369,0.0,0.375,0.625,pos
+10-06-2023,22:16 PM,Priya,You are so splendidly beautiful,"{'neg': 0.0, 'neu': 0.269, 'pos': 0.731, 'compound': 0.8469}",0.8469,0.0,0.731,0.269,pos
+15-06-2023,9:46 AM,Arun,I love your warm and caring heart,"{'neg': 0.0, 'neu': 0.244, 'pos': 0.756, 'compound': 0.8519}",0.8519,0.0,0.756,0.244,pos
+15-06-2023,11:50 AM,Priya,You are simply perfect to me,"{'neg': 0.0, 'neu': 0.575, 'pos': 0.425, 'compound': 0.5719}",0.5719,0.0,0.425,0.575,pos
+15-06-2023,11:53 AM,Priya,I have to debug this error in the program,"{'neg': 0.309, 'neu': 0.691, 'pos': 0.0, 'compound': -0.481}",-0.481,0.309,0.0,0.691,neg
+15-06-2023,13:27 PM,Priya,The wifi password has been changed,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+15-06-2023,14:42 PM,Priya,I love how you always believe in me,"{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.6369}",0.6369,0.0,0.412,0.588,pos
+15-06-2023,15:14 PM,Priya,Can you help me with the SQL query,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}",0.4019,0.0,0.278,0.722,pos
+15-06-2023,15:57 PM,Priya,I love how you always understand me,"{'neg': 0.0, 'neu': 0.543, 'pos': 0.457, 'compound': 0.6369}",0.6369,0.0,0.457,0.543,pos
+15-06-2023,17:14 PM,Arun,You are so wonderfully amazing,"{'neg': 0.0, 'neu': 0.249, 'pos': 0.751, 'compound': 0.877}",0.877,0.0,0.751,0.249,pos
+15-06-2023,17:40 PM,Arun,I love how you make me feel special,"{'neg': 0.0, 'neu': 0.42, 'pos': 0.58, 'compound': 0.7845}",0.7845,0.0,0.58,0.42,pos
+15-06-2023,18:16 PM,Priya,Can you help me with this problem,"{'neg': 0.289, 'neu': 0.462, 'pos': 0.249, 'compound': -0.1091}",-0.1091,0.289,0.249,0.462,neg
+15-06-2023,18:30 PM,Arun,I feel complete when I am with you,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+15-06-2023,18:43 PM,Arun,The quarterly review is next Monday,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+15-06-2023,19:12 PM,Arun,Did you check the server logs,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+15-06-2023,19:40 PM,Arun,I am so attracted to your personality,"{'neg': 0.0, 'neu': 0.618, 'pos': 0.382, 'compound': 0.4754}",0.4754,0.0,0.382,0.618,pos
+15-06-2023,20:29 PM,Priya,Missed voice call,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.296}",-0.296,0.524,0.0,0.476,neg
+20-06-2023,8:54 AM,Priya,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-06-2023,11:14 AM,Arun,I can't stop thinking about you,"{'neg': 0.0, 'neu': 0.679, 'pos': 0.321, 'compound': 0.2235}",0.2235,0.0,0.321,0.679,pos
+20-06-2023,11:59 AM,Arun,I love the way your eyes light up,"{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.6369}",0.6369,0.0,0.412,0.588,pos
+20-06-2023,15:16 PM,Priya,I need to attend the training session,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-06-2023,16:55 PM,Arun,I cherish every moment we spend together,"{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.3818}",0.3818,0.0,0.342,0.658,pos
+20-06-2023,17:27 PM,Priya,Did you get the package delivered,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-06-2023,17:51 PM,Priya,<Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-06-2023,20:01 PM,Arun,I have to document the new features,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+20-06-2023,20:57 PM,Priya,I have to cook dinner tonight,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-06-2023,8:00 AM,Arun,I am going to the gym after work,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-06-2023,9:41 AM,Arun,The client wants changes in the design,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-06-2023,9:59 AM,Arun,I love your radiant smile,"{'neg': 0.0, 'neu': 0.093, 'pos': 0.907, 'compound': 0.8689}",0.8689,0.0,0.907,0.093,pos
+25-06-2023,11:12 AM,Priya,I have a lot of work pending today,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-06-2023,12:18 PM,Arun,I need to buy groceries from the store,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-06-2023,13:59 PM,Arun,I love how you always make me feel special,"{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.7845}",0.7845,0.0,0.535,0.465,pos
+25-06-2023,14:38 PM,Arun,I need to wake up early tomorrow,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-06-2023,15:15 PM,Priya,You are the one who makes life worth living,"{'neg': 0.0, 'neu': 0.808, 'pos': 0.192, 'compound': 0.2263}",0.2263,0.0,0.192,0.808,pos
+25-06-2023,16:18 PM,Priya,You are the highlight of my day,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.34}",0.34,0.0,0.286,0.714,pos
+25-06-2023,17:38 PM,Arun,You are the most remarkable person I know,"{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.5984}",0.5984,0.0,0.394,0.606,pos
+25-06-2023,17:54 PM,Priya,The water supply will be cut tomorrow,"{'neg': 0.259, 'neu': 0.741, 'pos': 0.0, 'compound': -0.2732}",-0.2732,0.259,0.0,0.741,neg
+25-06-2023,18:17 PM,Arun,You are incredibly charming,"{'neg': 0.0, 'neu': 0.423, 'pos': 0.577, 'compound': 0.624}",0.624,0.0,0.577,0.423,pos
+25-06-2023,18:52 PM,Priya,You are simply the most amazing person ever,"{'neg': 0.0, 'neu': 0.631, 'pos': 0.369, 'compound': 0.624}",0.624,0.0,0.369,0.631,pos
+25-06-2023,19:21 PM,Priya,The traffic is really bad today,"{'neg': 0.431, 'neu': 0.569, 'pos': 0.0, 'compound': -0.5849}",-0.5849,0.431,0.0,0.569,neg
+25-06-2023,19:44 PM,Priya,I have to submit the assignment tonight,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-06-2023,20:16 PM,Priya,Missed video call,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.296}",-0.296,0.524,0.0,0.476,neg
+25-06-2023,21:01 PM,Arun,The sprint ends this Friday,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
+25-06-2023,21:10 PM,Priya,The exam results will come next week,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,neg
